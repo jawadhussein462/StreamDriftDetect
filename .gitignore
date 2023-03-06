@@ -1,0 +1,18 @@
+data/
+data_1/
+saved_models/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+.install_jupyter
+.DS_Store
+notebooks/
+
+# predictions
+outputs/
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+#flake8
+.flake8
